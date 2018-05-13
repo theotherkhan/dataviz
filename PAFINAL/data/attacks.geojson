@@ -1,0 +1,864 @@
+var attacks_json = {
+   "type": "FeatureCollection",
+   
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"12/19/16",
+    "PERPETRATOR 1":"Jihadi-inspired extremists",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"12/19/16",
+    "PERPETRATOR 1":"Jihadi-inspired extremists",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"8/4/16",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"9/17/15",
+    "PERPETRATOR 1":"Muslim extremists",
+    "TARGET TYPE 1":"Police"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"8/20/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"5/24/15",
+    "PERPETRATOR 1":"Right-wing extremists",
+    "TARGET TYPE 1":"Government (General)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"4/21/15",
+    "PERPETRATOR 1":"Right-wing extremists",
+    "TARGET TYPE 1":"Government (General)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"3/23/15",
+    "PERPETRATOR 1":"Right-wing extremists",
+    "TARGET TYPE 1":"Government (General)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"9/29/14",
+    "PERPETRATOR 1":"German Resistance Movement",
+    "TARGET TYPE 1":"Government (General)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"8/28/14",
+    "PERPETRATOR 1":"Left-wing extremists",
+    "TARGET TYPE 1":"Transportation"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"8/25/14",
+    "PERPETRATOR 1":"German Resistance Movement",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"8/11/14",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Religious Figures/Institutions"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"7/2/14",
+    "PERPETRATOR 1":"Conspiracy of Cells of Fire",
+    "TARGET TYPE 1":"Government (Diplomatic)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"1/2/14",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Government (Diplomatic)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38,52.52 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "DATE":"5/1/12",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0,53.55 ]
+    },
+    "properties": {
+    "City":"Hamburg",
+    "DATE":"11/26/16",
+    "PERPETRATOR 1":"Left-wing extremists",
+    "TARGET TYPE 1":"Business"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0,53.55 ]
+    },
+    "properties": {
+    "City":"Hamburg",
+    "DATE":"10/16/16",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0,53.55 ]
+    },
+    "properties": {
+    "City":"Hamburg",
+    "DATE":"3/29/16",
+    "PERPETRATOR 1":"Kurdistan Workers' Party (PKK)",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0,53.55 ]
+    },
+    "properties": {
+    "City":"Hamburg",
+    "DATE":"1/11/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Journalists & Media"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0,51.47 ]
+    },
+    "properties": {
+    "City":"Essen",
+    "DATE":"11/4/16",
+    "PERPETRATOR 1":"Bahoz",
+    "TARGET TYPE 1":"Business"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0,51.47 ]
+    },
+    "properties": {
+    "City":"Essen",
+    "DATE":"4/16/16",
+    "PERPETRATOR 1":"Jihadi-inspired extremists",
+    "TARGET TYPE 1":"Religious Figures/Institutions"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.73,52.4 ]
+    },
+    "properties": {
+    "City":"Hannover",
+    "DATE":"11/6/16",
+    "PERPETRATOR 1":"Kurdistan Workers' Party (PKK)",
+    "TARGET TYPE 1":"Government (Diplomatic)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4,51.35 ]
+    },
+    "properties": {
+    "City":"Leipzig",
+    "DATE":"10/4/16",
+    "PERPETRATOR 1":"Left-wing extremists",
+    "TARGET TYPE 1":"Government (General)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4,51.35 ]
+    },
+    "properties": {
+    "City":"Leipzig",
+    "DATE":"9/16/16",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4,51.35 ]
+    },
+    "properties": {
+    "City":"Leipzig",
+    "DATE":"1/30/16",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4,51.35 ]
+    },
+    "properties": {
+    "City":"Leipzig",
+    "DATE":"8/25/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.74,51.05 ]
+    },
+    "properties": {
+    "City":"Dresden",
+    "DATE":"10/1/16",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Police"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.74,51.05 ]
+    },
+    "properties": {
+    "City":"Dresden",
+    "DATE":"9/26/16",
+    "PERPETRATOR 1":"Neo-Nazi extremists",
+    "TARGET TYPE 1":"Business"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.74,51.05 ]
+    },
+    "properties": {
+    "City":"Dresden",
+    "DATE":"9/26/16",
+    "PERPETRATOR 1":"Neo-Nazi extremists",
+    "TARGET TYPE 1":"Religious Figures/Institutions"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.74,51.05 ]
+    },
+    "properties": {
+    "City":"Dresden",
+    "DATE":"10/28/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.74,51.05 ]
+    },
+    "properties": {
+    "City":"Dresden",
+    "DATE":"3/2/15",
+    "PERPETRATOR 1":"Patriotic Europeans against the Islamization of the West (PEGIDA)",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.18,51.26 ]
+    },
+    "properties": {
+    "City":"Wuppertal",
+    "DATE":"7/29/14",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Religious Figures/Institutions"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.53,52.03 ]
+    },
+    "properties": {
+    "City":"Bielefeld",
+    "DATE":"9/10/15",
+    "PERPETRATOR 1":"Kurdistan Workers' Party (PKK)",
+    "TARGET TYPE 1":"Religious Figures/Institutions"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.53,52.03 ]
+    },
+    "properties": {
+    "City":"Bielefeld",
+    "DATE":"8/10/14",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Religious Figures/Institutions"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1,50.73 ]
+    },
+    "properties": {
+    "City":"Bonn",
+    "DATE":"12/10/12",
+    "PERPETRATOR 1":"Muslim extremists",
+    "TARGET TYPE 1":"Transportation"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.62,51.96 ]
+    },
+    "properties": {
+    "City":"Munster",
+    "DATE":"11/28/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Government (Diplomatic)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.89,48.36 ]
+    },
+    "properties": {
+    "City":"Augsburg",
+    "DATE":"12/13/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.92,50.83 ]
+    },
+    "properties": {
+    "City":"Chemnitz",
+    "DATE":"11/8/16",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.92,50.83 ]
+    },
+    "properties": {
+    "City":"Chemnitz",
+    "DATE":"1/30/16",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.62,52.13 ]
+    },
+    "properties": {
+    "City":"Magdeburg",
+    "DATE":"11/14/16",
+    "PERPETRATOR 1":"Neo-Nazi extremists",
+    "TARGET TYPE 1":"Business"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.62,52.13 ]
+    },
+    "properties": {
+    "City":"Magdeburg",
+    "DATE":"9/8/16",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Police"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.62,52.13 ]
+    },
+    "properties": {
+    "City":"Magdeburg",
+    "DATE":"10/31/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.62,52.13 ]
+    },
+    "properties": {
+    "City":"Magdeburg",
+    "DATE":"1/23/12",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Western Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.86,51.47 ]
+    },
+    "properties": {
+    "City":"Oberhausen",
+    "DATE":"2/2/16",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.66,53.87 ]
+    },
+    "properties": {
+    "City":"Lubeck",
+    "DATE":"6/29/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.44,49.48 ]
+    },
+    "properties": {
+    "City":"Ludwigshafen",
+    "DATE":"12/5/16",
+    "PERPETRATOR 1":"Jihadi-inspired extremists",
+    "TARGET TYPE 1":"Bombing/Explosion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.44,49.48 ]
+    },
+    "properties": {
+    "City":"Ludwigshafen",
+    "DATE":"11/26/16",
+    "PERPETRATOR 1":"Jihadi-inspired extremists",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.21,53.15 ]
+    },
+    "properties": {
+    "City":"Oldenburg",
+    "DATE":"8/30/14",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Religious Figures/Institutions"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.69,49.42 ]
+    },
+    "properties": {
+    "City":"Heidelberg",
+    "DATE":"10/11/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.94,49.8 ]
+    },
+    "properties": {
+    "City":"Wurzburg",
+    "DATE":"7/18/16",
+    "PERPETRATOR 1":"Jihadi-inspired extremists",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.07,52.4 ]
+    },
+    "properties": {
+    "City":"Potsdam",
+    "DATE":"5/14/12",
+    "PERPETRATOR 1":"Friends of Loukanikos",
+    "TARGET TYPE 1":"Government (Diplomatic)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.34,51.44 ]
+    },
+    "properties": {
+    "City":"Witten",
+    "DATE":"1/25/16",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.34,51.44 ]
+    },
+    "properties": {
+    "City":"Witten",
+    "DATE":"1/25/16",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Private Citizens & Property"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.34,51.44 ]
+    },
+    "properties": {
+    "City":"Witten",
+    "DATE":"4/13/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Religious Figures/Institutions"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.58,50.93 ]
+    },
+    "properties": {
+    "City":"Jena",
+    "DATE":"11/1/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.42,54.79 ]
+    },
+    "properties": {
+    "City":"Flensburg",
+    "DATE":"10/16/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.46,53.9 ]
+    },
+    "properties": {
+    "City":"Wismar",
+    "DATE":"10/31/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.43,51.18 ]
+    },
+    "properties": {
+    "City":"Bautzen",
+    "DATE":"2/20/16",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.93,48.49 ]
+    },
+    "properties": {
+    "City":"Rottenburg",
+    "DATE":"9/7/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.93,50.96 ]
+    },
+    "properties": {
+    "City":"Pirna",
+    "DATE":"12/14/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.57,49.3 ]
+    },
+    "properties": {
+    "City":"Ansbach",
+    "DATE":"7/24/16",
+    "PERPETRATOR 1":"Jihadi-inspired extremists",
+    "TARGET TYPE 1":"Business"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7,50.03 ]
+    },
+    "properties": {
+    "City":"Dreieich",
+    "DATE":"1/4/16",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.44,51.01 ]
+    },
+    "properties": {
+    "City":"Altenburg",
+    "DATE":"12/7/15",
+    "PERPETRATOR 1":"Unknown",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.66,51.02 ]
+    },
+    "properties": {
+    "City":"Freital",
+    "DATE":"11/1/15",
+    "PERPETRATOR 1":"Freital Group",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.66,51.02 ]
+    },
+    "properties": {
+    "City":"Freital",
+    "DATE":"9/19/15",
+    "PERPETRATOR 1":"Freital Group",
+    "TARGET TYPE 1":"Other"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.66,51.02 ]
+    },
+    "properties": {
+    "City":"Freital",
+    "DATE":"7/27/15",
+    "PERPETRATOR 1":"Freital Group",
+    "TARGET TYPE 1":"Government (General)"
+    }
+  }
+]
+}

@@ -1,0 +1,1943 @@
+var attacks_json = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.6667,52.1667 ]
+    },
+    "properties": {
+    "DATE":"1/23/12",
+    "CITY":"magdeburg",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":3,
+    "INJURED":1,
+    "TARGET":"Western Europe",
+    "ATTACK":"Incendiary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"5/1/12",
+    "CITY":"berlin",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Bombing/Explosion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.0667,52.4 ]
+    },
+    "properties": {
+    "DATE":"5/14/12",
+    "CITY":"potsdam",
+    "PERPETRATOR":"Friends of Loukanikos",
+    "TYPE":"Left-wing extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Government (Diplomatic)",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1,50.7333 ]
+    },
+    "properties": {
+    "DATE":"12/10/12",
+    "CITY":"bonn",
+    "PERPETRATOR":"Muslim extremists",
+    "TYPE":"Muslim extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Transportation",
+    "ATTACK":"Bombing/Explosion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"1/2/14",
+    "CITY":"berlin",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Government (Diplomatic)",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"7/2/14",
+    "CITY":"berlin",
+    "PERPETRATOR":"Conspiracy of Cells of Fire",
+    "TYPE":"Foreign national groups",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Government (Diplomatic)",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1833,51.2667 ]
+    },
+    "properties": {
+    "DATE":"7/29/14",
+    "CITY":"wuppertal",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Religious Figures/Institutions",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5333,52.0333 ]
+    },
+    "properties": {
+    "DATE":"8/10/14",
+    "CITY":"bielefeld",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Religious Figures/Institutions",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"8/11/14",
+    "CITY":"berlin",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Religious Figures/Institutions",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"8/25/14",
+    "CITY":"berlin",
+    "PERPETRATOR":"German Resistance Movement",
+    "TYPE":"Neo-Nazi extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"8/28/14",
+    "CITY":"berlin",
+    "PERPETRATOR":"Left-wing extremists",
+    "TYPE":"Left-wing extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Transportation",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2,53.1667 ]
+    },
+    "properties": {
+    "DATE":"8/30/14",
+    "CITY":"oldenburg",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Religious Figures/Institutions",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.6833,53.6333 ]
+    },
+    "properties": {
+    "DATE":"9/4/14",
+    "CITY":"moelln",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Religious Figures/Institutions",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"9/29/14",
+    "CITY":"berlin",
+    "PERPETRATOR":"German Resistance Movement",
+    "TYPE":"Right-wing extremist",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Government (General)",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7667,52.0833 ]
+    },
+    "properties": {
+    "DATE":"10/11/14",
+    "CITY":"bad salzuflen",
+    "PERPETRATOR":"Yazidi extremists",
+    "TYPE":"Foreign national groups",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Religious Figures/Institutions",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.3333,54.0667 ]
+    },
+    "properties": {
+    "DATE":"10/12/14",
+    "CITY":"gross lusewitz",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.5,49.55 ]
+    },
+    "properties": {
+    "DATE":"12/12/14",
+    "CITY":"vorra",
+    "PERPETRATOR":"Free Network South (Freies Netz Sued)",
+    "TYPE":"Neo-Nazi extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10,53.55 ]
+    },
+    "properties": {
+    "DATE":"1/11/15",
+    "CITY":"hamburg",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Journalists & Media",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.3167,53.4667 ]
+    },
+    "properties": {
+    "DATE":"2/9/15",
+    "CITY":"escheburg",
+    "PERPETRATOR":"Anti-Immigrant extremists",
+    "TYPE":"Right-wing extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.75,51.05 ]
+    },
+    "properties": {
+    "DATE":"3/2/15",
+    "CITY":"dresden",
+    "PERPETRATOR":"Patriotic Europeans against the Islamization of the West (PEGIDA)",
+    "TYPE":"Right-wing extremist",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Bombing/Explosion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"3/23/15",
+    "CITY":"berlin",
+    "PERPETRATOR":"Right-wing extremists",
+    "TYPE":"Right-wing extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Government (General)",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3333,51.4333 ]
+    },
+    "properties": {
+    "DATE":"4/13/15",
+    "CITY":"witten",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Religious Figures/Institutions",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"4/21/15",
+    "CITY":"berlin",
+    "PERPETRATOR":"Right-wing extremists",
+    "TYPE":"Right-wing extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Government (General)",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3919,49.4244 ]
+    },
+    "properties": {
+    "DATE":"5/6/15",
+    "CITY":"limburgerhof",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"5/24/15",
+    "CITY":"berlin",
+    "PERPETRATOR":"Right-wing extremists",
+    "TYPE":"Right-wing extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Government (General)",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4833,51.15 ]
+    },
+    "properties": {
+    "DATE":"6/28/15",
+    "CITY":"meissen",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7,53.8667 ]
+    },
+    "properties": {
+    "DATE":"6/29/15",
+    "CITY":"lubeck",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.3833,51.2 ]
+    },
+    "properties": {
+    "DATE":"7/11/15",
+    "CITY":"bohlen",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.3833,51.2 ]
+    },
+    "properties": {
+    "DATE":"7/12/15",
+    "CITY":"bohlen",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.4667,48.6667 ]
+    },
+    "properties": {
+    "DATE":"7/15/15",
+    "CITY":"reichertshofen",
+    "PERPETRATOR":"The Third Way (Der III. Weg)",
+    "TYPE":"Neo-Nazi extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.65,51.0167 ]
+    },
+    "properties": {
+    "DATE":"7/27/15",
+    "CITY":"freital",
+    "PERPETRATOR":"Freital Group",
+    "TYPE":"Right-wing extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Government (General)",
+    "ATTACK":"Assassination"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"8/20/15",
+    "CITY":"berlin",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.3333,51.3 ]
+    },
+    "properties": {
+    "DATE":"8/25/15",
+    "CITY":"leipzig",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.8833,52.6 ]
+    },
+    "properties": {
+    "DATE":"8/25/15",
+    "CITY":"nauen",
+    "PERPETRATOR":"Right-wing extremists",
+    "TYPE":"Right-wing extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.6167,52.0667 ]
+    },
+    "properties": {
+    "DATE":"8/28/15",
+    "CITY":"salzhemmendorf",
+    "PERPETRATOR":"Right-wing extremists",
+    "TYPE":"Right-wing extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6372,49.6408 ]
+    },
+    "properties": {
+    "DATE":"9/4/15",
+    "CITY":"heppenheim",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":5,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7333,51.2833 ]
+    },
+    "properties": {
+    "DATE":"9/7/15",
+    "CITY":"ebeleben",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9333,48.4667 ]
+    },
+    "properties": {
+    "DATE":"9/7/15",
+    "CITY":"rottenburg",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":5,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2,49.15 ]
+    },
+    "properties": {
+    "DATE":"9/9/15",
+    "CITY":"gersheim",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5333,52.0333 ]
+    },
+    "properties": {
+    "DATE":"9/10/15",
+    "CITY":"bielefeld",
+    "PERPETRATOR":"Kurdistan Workers' Party (PKK)",
+    "TYPE":"Foreign national groups",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Religious Figures/Institutions",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0667,50.9667 ]
+    },
+    "properties": {
+    "DATE":"9/11/15",
+    "CITY":"gerstungen",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"9/17/15",
+    "CITY":"berlin",
+    "PERPETRATOR":"Muslim extremists",
+    "TYPE":"Muslim extremists",
+    "FATALITIES":1,
+    "INJURED":1,
+    "TARGET":"Police",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.65,51.0167 ]
+    },
+    "properties": {
+    "DATE":"9/19/15",
+    "CITY":"freital",
+    "PERPETRATOR":"Freital Group",
+    "TYPE":"Right-wing extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Bombing/Explosion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.35,53.9333 ]
+    },
+    "properties": {
+    "DATE":"9/19/15",
+    "CITY":"laage",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5094,49.7575 ]
+    },
+    "properties": {
+    "DATE":"9/19/15",
+    "CITY":"wertheim",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":2,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.25,52.6 ]
+    },
+    "properties": {
+    "DATE":"9/19/15",
+    "CITY":"neuhardenberg",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.3333,50.8 ]
+    },
+    "properties": {
+    "DATE":"10/3/15",
+    "CITY":"grosshartmannsdorf",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1,51.4333 ]
+    },
+    "properties": {
+    "DATE":"10/3/15",
+    "CITY":"bischhagen",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7,49.4167 ]
+    },
+    "properties": {
+    "DATE":"10/11/15",
+    "CITY":"heidelberg",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6667,51.3 ]
+    },
+    "properties": {
+    "DATE":"10/11/15",
+    "CITY":"altena",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.4333,54.7833 ]
+    },
+    "properties": {
+    "DATE":"10/16/15",
+    "CITY":"flensburg",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.95,50.9333 ]
+    },
+    "properties": {
+    "DATE":"10/17/15",
+    "CITY":"cologne",
+    "PERPETRATOR":"Anti-Immigrant extremists",
+    "TYPE":"Right-wing extremists",
+    "FATALITIES":0,
+    "INJURED":5,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Assassination"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.75,51.05 ]
+    },
+    "properties": {
+    "DATE":"10/28/15",
+    "CITY":"dresden",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.6667,52.1667 ]
+    },
+    "properties": {
+    "DATE":"10/31/15",
+    "CITY":"magdeburg",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":3,
+    "TARGET":"Other",
+    "ATTACK":"Unarmed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.6333,51.0833 ]
+    },
+    "properties": {
+    "DATE":"10/31/15",
+    "CITY":"cossebaude",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.4667,53.9 ]
+    },
+    "properties": {
+    "DATE":"10/31/15",
+    "CITY":"wismar",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":2,
+    "TARGET":"Other",
+    "ATTACK":"Unarmed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.95,52.3167 ]
+    },
+    "properties": {
+    "DATE":"11/1/15",
+    "CITY":"sehnde",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.5833,50.9333 ]
+    },
+    "properties": {
+    "DATE":"11/1/15",
+    "CITY":"jena",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":1,
+    "TARGET":"Other",
+    "ATTACK":"Unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.65,51.0167 ]
+    },
+    "properties": {
+    "DATE":"11/1/15",
+    "CITY":"freital",
+    "PERPETRATOR":"Freital Group",
+    "TYPE":"Right-wing extremists",
+    "FATALITIES":0,
+    "INJURED":1,
+    "TARGET":"Other",
+    "ATTACK":"Bombing/Explosion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4719,49.6019 ]
+    },
+    "properties": {
+    "DATE":"11/2/15",
+    "CITY":"lampertheim",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.8667,54.1 ]
+    },
+    "properties": {
+    "DATE":"11/15/15",
+    "CITY":"trassenheide",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7333,50.4333 ]
+    },
+    "properties": {
+    "DATE":"11/22/15",
+    "CITY":"johanngeorgenstadt",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6333,51.9667 ]
+    },
+    "properties": {
+    "DATE":"11/28/15",
+    "CITY":"munster",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Government (Diplomatic)",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.45,50.9833 ]
+    },
+    "properties": {
+    "DATE":"12/7/15",
+    "CITY":"altenburg",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":10,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1,54.2 ]
+    },
+    "properties": {
+    "DATE":"12/9/15",
+    "CITY":"heide",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1,54.2 ]
+    },
+    "properties": {
+    "DATE":"12/9/15",
+    "CITY":"heide",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1,54.2 ]
+    },
+    "properties": {
+    "DATE":"12/9/15",
+    "CITY":"heide",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.8833,48.3667 ]
+    },
+    "properties": {
+    "DATE":"12/13/15",
+    "CITY":"augsburg",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.9333,50.9667 ]
+    },
+    "properties": {
+    "DATE":"12/14/15",
+    "CITY":"pirna",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5,49.8167 ]
+    },
+    "properties": {
+    "DATE":"12/20/15",
+    "CITY":"godendorf",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.2667,53.9167 ]
+    },
+    "properties": {
+    "DATE":"12/20/15",
+    "CITY":"tutow",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.4667,48.8833 ]
+    },
+    "properties": {
+    "DATE":"12/24/15",
+    "CITY":"wallerstein",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":6,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.4667,48.8833 ]
+    },
+    "properties": {
+    "DATE":"12/24/15",
+    "CITY":"wallerstein",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":6,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.7833,48.8 ]
+    },
+    "properties": {
+    "DATE":"12/24/15",
+    "CITY":"schwabisch gmund",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.95,50.5667 ]
+    },
+    "properties": {
+    "DATE":"12/26/15",
+    "CITY":"schlettau",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.7167,52.3667 ]
+    },
+    "properties": {
+    "DATE":"12/31/15",
+    "CITY":"hanover",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7,50 ]
+    },
+    "properties": {
+    "DATE":"1/4/16",
+    "CITY":"dreieich",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":1,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.7667,50.7667 ]
+    },
+    "properties": {
+    "DATE":"1/17/16",
+    "CITY":"altenberg",
+    "PERPETRATOR":"Neo-Nazi extremists",
+    "TYPE":"Neo-Nazi extremists",
+    "FATALITIES":0,
+    "INJURED":2,
+    "TARGET":"Other",
+    "ATTACK":"Unarmed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3333,51.4333 ]
+    },
+    "properties": {
+    "DATE":"1/25/16",
+    "CITY":"witten",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3333,51.4333 ]
+    },
+    "properties": {
+    "DATE":"1/25/16",
+    "CITY":"witten",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.9167,50.8333 ]
+    },
+    "properties": {
+    "DATE":"1/30/16",
+    "CITY":"chemnitz",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.3333,51.3 ]
+    },
+    "properties": {
+    "DATE":"1/30/16",
+    "CITY":"leipzig",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.85,51.4667 ]
+    },
+    "properties": {
+    "DATE":"2/2/16",
+    "CITY":"oberhausen",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.7167,52.3667 ]
+    },
+    "properties": {
+    "DATE":"2/5/16",
+    "CITY":"hanover",
+    "PERPETRATOR":"Jihadi-inspired extremists",
+    "TYPE":"Muslim extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4333,51.1833 ]
+    },
+    "properties": {
+    "DATE":"2/20/16",
+    "CITY":"bautzen",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.7167,52.3667 ]
+    },
+    "properties": {
+    "DATE":"2/26/16",
+    "CITY":"hanover",
+    "PERPETRATOR":"Islamic State of Iraq and the Levant (ISIL)",
+    "TYPE":"Muslim extremists",
+    "FATALITIES":0,
+    "INJURED":1,
+    "TARGET":"Police",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.45,51.7333 ]
+    },
+    "properties": {
+    "DATE":"2/27/16",
+    "CITY":"grafenhainichen",
+    "PERPETRATOR":"Right-wing extremists",
+    "TYPE":"Right-wing extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10,53.55 ]
+    },
+    "properties": {
+    "DATE":"3/29/16",
+    "CITY":"hamburg",
+    "PERPETRATOR":"Kurdistan Workers' Party (PKK)",
+    "TYPE":"Foreign national groups",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0167,51.45 ]
+    },
+    "properties": {
+    "DATE":"4/16/16",
+    "CITY":"essen",
+    "PERPETRATOR":"Jihadi-inspired extremists",
+    "TYPE":"Muslim extremists",
+    "FATALITIES":0,
+    "INJURED":3,
+    "TARGET":"Religious Figures/Institutions",
+    "ATTACK":"Bombing/Explosion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.9667,48.05 ]
+    },
+    "properties": {
+    "DATE":"5/10/16",
+    "CITY":"grafing",
+    "PERPETRATOR":"Muslim extremists",
+    "TYPE":"Muslim extremists",
+    "FATALITIES":1,
+    "INJURED":3,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9361,49.7878 ]
+    },
+    "properties": {
+    "DATE":"7/18/16",
+    "CITY":"wurzburg",
+    "PERPETRATOR":"Jihadi-inspired extremists",
+    "TYPE":"Muslim extremists",
+    "FATALITIES":1,
+    "INJURED":5,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.5833,48.15 ]
+    },
+    "properties": {
+    "DATE":"7/22/16",
+    "CITY":"munich",
+    "PERPETRATOR":"Right-wing extremists",
+    "TYPE":"Right-wing extremists",
+    "FATALITIES":10,
+    "INJURED":27,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.5833,49.3 ]
+    },
+    "properties": {
+    "DATE":"7/24/16",
+    "CITY":"ansbach",
+    "PERPETRATOR":"Jihadi-inspired extremists",
+    "TYPE":"Muslim extremists",
+    "FATALITIES":1,
+    "INJURED":15,
+    "TARGET":"Business",
+    "ATTACK":"Bombing/Explosion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"8/4/16",
+    "CITY":"berlin",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.6667,52.1667 ]
+    },
+    "properties": {
+    "DATE":"9/8/16",
+    "CITY":"magdeburg",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Police",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.3333,51.3 ]
+    },
+    "properties": {
+    "DATE":"9/16/16",
+    "CITY":"leipzig",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8,50.9667 ]
+    },
+    "properties": {
+    "DATE":"9/25/16",
+    "CITY":"bebra",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Religious Figures/Institutions",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.75,51.05 ]
+    },
+    "properties": {
+    "DATE":"9/26/16",
+    "CITY":"dresden",
+    "PERPETRATOR":"Neo-Nazi extremists",
+    "TYPE":"Neo-Nazi extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Business",
+    "ATTACK":"Bombing/Explosion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.75,51.05 ]
+    },
+    "properties": {
+    "DATE":"9/26/16",
+    "CITY":"dresden",
+    "PERPETRATOR":"Neo-Nazi extremists",
+    "TYPE":"Neo-Nazi extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Religious Figures/Institutions",
+    "ATTACK":"Bombing/Explosion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.9667,51.75 ]
+    },
+    "properties": {
+    "DATE":"9/28/16",
+    "CITY":"kothen",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Other",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9833,53.8333 ]
+    },
+    "properties": {
+    "DATE":"9/29/16",
+    "CITY":"oersdorf",
+    "PERPETRATOR":"Neo-Nazi extremists",
+    "TYPE":"Neo-Nazi extremists",
+    "FATALITIES":0,
+    "INJURED":1,
+    "TARGET":"Government (General)",
+    "ATTACK":"Unarmed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.75,51.05 ]
+    },
+    "properties": {
+    "DATE":"10/1/16",
+    "CITY":"dresden",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Police",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.3333,51.3 ]
+    },
+    "properties": {
+    "DATE":"10/4/16",
+    "CITY":"leipzig",
+    "PERPETRATOR":"Left-wing extremists",
+    "TYPE":"Left-wing extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Government (General)",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2833,50.9667 ]
+    },
+    "properties": {
+    "DATE":"10/6/16",
+    "CITY":"sebnitz",
+    "PERPETRATOR":"Right-wing extremists",
+    "TYPE":"Right-wing extremists",
+    "FATALITIES":0,
+    "INJURED":3,
+    "TARGET":"Other",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10,53.55 ]
+    },
+    "properties": {
+    "DATE":"10/16/16",
+    "CITY":"hamburg",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":1,
+    "INJURED":2,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Armed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0167,51.45 ]
+    },
+    "properties": {
+    "DATE":"11/4/16",
+    "CITY":"essen",
+    "PERPETRATOR":"Bahoz",
+    "TYPE":"Foreign national groups",
+    "FATALITIES":0,
+    "INJURED":1,
+    "TARGET":"Business",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5167,53.1833 ]
+    },
+    "properties": {
+    "DATE":"11/6/16",
+    "CITY":"hannover",
+    "PERPETRATOR":"Kurdistan Workers' Party (PKK)",
+    "TYPE":"Foreign national groups",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Government (Diplomatic)",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.9167,50.8333 ]
+    },
+    "properties": {
+    "DATE":"11/8/16",
+    "CITY":"chemnitz",
+    "PERPETRATOR":"Unknown",
+    "TYPE":"Unknown",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Bombing/Explosion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.6667,52.1667 ]
+    },
+    "properties": {
+    "DATE":"11/14/16",
+    "CITY":"magdeburg",
+    "PERPETRATOR":"Neo-Nazi extremists",
+    "TYPE":"Neo-Nazi extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Business",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4353,49.4811 ]
+    },
+    "properties": {
+    "DATE":"11/26/16",
+    "CITY":"ludwigshafen",
+    "PERPETRATOR":"Jihadi-inspired extremists",
+    "TYPE":"Muslim extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Bombing/Explosion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10,53.55 ]
+    },
+    "properties": {
+    "DATE":"11/26/16",
+    "CITY":"hamburg",
+    "PERPETRATOR":"Left-wing extremists",
+    "TYPE":"Left-wing extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Business",
+    "ATTACK":"Facility/Infrastructure Attack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4353,49.4811 ]
+    },
+    "properties": {
+    "DATE":"12/5/16",
+    "CITY":"ludwigshafen",
+    "PERPETRATOR":"Jihadi-inspired extremists",
+    "TYPE":"Muslim extremists",
+    "FATALITIES":0,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Unarmed Assault"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"12/19/16",
+    "CITY":"berlin",
+    "PERPETRATOR":"Jihadi-inspired extremists",
+    "TYPE":"Muslim extremists",
+    "FATALITIES":1,
+    "INJURED":0,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Hijacking"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4,52.5167 ]
+    },
+    "properties": {
+    "DATE":"12/19/16",
+    "CITY":"berlin",
+    "PERPETRATOR":"Jihadi-inspired extremists",
+    "TYPE":"Muslim extremists",
+    "FATALITIES":12,
+    "INJURED":48,
+    "TARGET":"Private Citizens & Property",
+    "ATTACK":"Unarmed Assault"
+    }
+  }
+]
+}

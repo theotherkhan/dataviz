@@ -1,0 +1,174 @@
+
+
+body{
+  zoom=80%;
+}
+h1 {
+  color: #0A1C5D;
+  font-family:Palatino;
+  position: absolute;
+  top: 0;
+  left: 400px;
+  font-size: 3.3em;
+  align: center;
+}
+
+h2 {
+  color: black;
+  font-family:Palatino;
+  position: absolute;
+  top: 520px;
+  left: 925px;
+  font-size: 1.2em;
+}
+
+h3 {
+  color: black;
+  font-family:Palatino;
+  position: absolute;
+  top: 590px;
+  left: 925px;
+  font-size: 1.5em;
+}
+
+
+h6 {
+  color: #0A1C5D;
+  font-family:Palatino;
+  position: absolute;
+  top: 380px;
+  right: 297px;
+  font-size: 2.5em;
+  align: center;
+
+}
+
+p {
+  color: #0A1C5D;
+  font-family:Palatino;
+  position: absolute;
+  top: 680px;
+  left: 20px;
+  font-size: 0.9em;
+  align: center;
+}
+
+
+.hover {
+  fill: yellow;
+}
+
+.chart1{
+  position: absolute;
+  top:200px;
+  right:0;
+  width: 650;
+  fill: "white";
+  /*border:1px solid black;*/
+}
+
+.chart2{
+  position: absolute;
+  top:500px;
+  right:0;
+  width: 650;
+  fill: "white";
+  /*border:1px solid black;*/
+}
+
+.hider_svg{
+  position: absolute;
+  top:225px;
+  right:0;
+  width: 600;
+  height: 210;
+
+}
+
+.distr_svg{
+  position: absolute;
+  top:200px;
+  right:650;
+  width: 170;
+  height: 500;
+
+}
+
+.sex_slider{
+
+  y: 28;
+  x: 40;
+  width: 30;
+  height: 400;
+  fill: blue;
+  opacity:0.5;
+
+}
+
+.age_slider{
+
+  y: 28;
+  x: 100;
+  width: 30;
+  height: 400;
+  fill: red;
+  opacity:0.5;
+}
+
+#hider_rect{
+  fill: white;
+  width: 650;
+  height:165;
+
+}
+
+#pointer_rect{
+  fill: black;
+  width: 2;
+  height:165;
+
+}
+
+#radio1{
+font-family:Palatino;
+
+}
+
+#radio2{
+font-family:Palatino
+
+}
+
+.margin{
+  margin-left: 20px;
+}
+
+#checkbox {
+  position: absolute;
+  height: 100;
+  top: 220px;
+  width: 300;
+  left: 500;
+  /*border: 1px solid black;*/
+
+}
+
+#range {
+  font-family:Palatino;
+}
+
+#text{
+  font-family:Palatino;
+  font-size: 1.0em;
+  color:grey;
+}
+
+#key{
+  position: absolute;
+  top: 400px;
+  left: 500;
+  width: 210;
+  height: 115;
+  border: "1px solid black";
+
+}

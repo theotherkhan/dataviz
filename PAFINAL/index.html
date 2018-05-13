@@ -1,0 +1,134 @@
+<!-- Hasan Khan | Dataviz final -->
+
+<html>
+<head>
+    <title> Refugees & Terrorism: A Case Study </title>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="./data/germany2.json"></script>
+    <script src="./data/attacks4.geojson"></script>
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+    <!-- Rickshaw imports: -->
+    <script src="http://cdn.pubnub.com/pubnub.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rickshaw/1.5.1/rickshaw.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/rickshaw/1.5.1/rickshaw.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+</head>
+
+
+<body>
+
+    <h1>Refugees & Terrorism: A Case Study</h1>
+
+    <h1 style=" top:130; font-size: 1.1em; left:100px; align: center; color:#0A1C5D;"> ····························· Attacks ·····························</h1>
+    <h1 style=" top:130; font-size: 1.1em; left:500px; align: center; color:#0A1C5D;"> ················· Controls ················</h1>
+    <h1 style=" top:130; font-size: 1.1em; left:800px; align: center; color:#0A1C5D;"> ····································································· Migrations ····································································· </h1>
+
+
+
+
+    <div id="immigrationDiv"></div>
+
+    <!-- Graph code:
+    <script src="/graph.js"></script>-->
+
+    <!-- CHARTS -->
+    <img src="migration_middle.svg" class="chart1" width=700 align=right></img>
+
+
+    <!-- HIDER RECTANGLES -->
+    <svg class="hider_svg" id="hider_svg"  >
+
+      <rect id="hider_rect" style="fill:white ; y: 300;" />
+
+
+      <rect id="hider_rect" />
+      <rect id="pointer_rect"/>
+
+      <text id="pointer_value1" x=5 y=20 font-size=10 ></text>
+      <text id="pointer_value2" x=5 y=30 font-size=10 ></text>
+      <text id="pointer_value3" x=5 y=40 font-size=10 ></text>
+      <text id="pointer_value4" x=5 y=50 font-size=10 ></text>
+      <text id="pointer_value5" x=5 y=60 font-size=10 ></text>
+    </svg>
+
+    <!-- DISTRIBUTIONS -->
+    <svg class="distr_svg" id="distr_svg">
+
+
+      <text id="text" y=18 x=97> Age </text>
+      <text id="text" y=18 x=39 > Sex </text>
+
+      <rect class="sex_slider"/>
+      <rect class="age_slider"/>
+
+        <rect class ="sex_slider" style=" fill:white; opacity:0.6; height: 121.2;" id="female" />
+
+        <rect class ="age_slider" style=" fill:white; opacity:0.6; height: 134;" id="old" />
+
+        <img src="numberline.png" style=" position:absolute; top:220; left:780; width:25; height:420;" ></img>
+        <img src="numberline.png" style=" position:absolute; top:220; left:840; width:25; height:420;" ></img>
+
+    <!-- SLIDER, FILTER -->
+    <div id="checkbox">
+
+
+      <input id="timeslide" type="range" min="0" max="60" value="0" step="1"/><br>
+
+      <span id="range"> ············Time············</span>
+
+
+      <div>
+        <input id="radio1" type="radio"  name = "color_scheme" checked /> All terrorist attacks <br>
+        <input id="radio2" type="radio"  name = "color_scheme" /> Terrorist attacks by refugees <br>
+        <input id="radio3" type="radio"  name = "color_scheme" /> Terrorist attacks against refugees <br>
+      </div>
+
+
+    </div>
+
+    <h6> Attack Description: </h6>
+
+    <h2>(hover over an attack to find out more)</h2>
+
+    <p id="text"> Over the past couple of years, Europe has faced a surge in refugee migration unlike any seen since the end of the second World War.
+      Such a large demographic shift brings about important questions regarding the impact of refugees on a nation's economy, demography, and security. More
+      specifically, there has been intense debate on whether refugees cause violence and terrorism in their host countries — an idea that
+      European far-right parties consistently emphasize and integrate into platform. Germany, being the leading European acceptor of refugees,
+      stands as the nation most involved with these issues. In this visualization, one can explore a narrower slice of the overall
+      discussion: how, if at all, does the influx of refugees relate to terrorist incidents in a country? By interacting with the time slider,
+      the user can begin to understand the temporal and demographic scale of the migrant crisis in Germany, as well as how it has (or has not) subsequently
+      effected terrorism incidents in Germany. <br> <br>
+
+      A large influx of migrants starts to kick in towards the end of 2015, when there is a spike in refugee applications to Germany, coming
+      primarily from the Arab world. Notice the demographics of the incoming migrants: a majority are young men between the ages of 18 and 35, which is
+      the primary group known to commit crime and terrorism, irrespective of origin or ethnicity. The biggest terror attacks are
+      clustered toward the end of 2016. <br> <br>
+
+      Using the filters under the time slider, the user can also view terrorist attacks specifically involving refugees, either as perpetrators or as targets.
+      Doing so shows that only two terrorist attacks were carried out by refugees, despit the oft-made claim that Germany's open door policies allow for Foreign
+      terror groups to exploit lax border laws and sneak members into European countries.
+    </p>
+
+
+
+    <text style = "top: 850px;  left: 500;" </text>
+
+    <img id="key" src="./key.png"> </img>
+    <p style=" top:355; left:500; font-size: 0.9em; color:black;"> ························Key························</p>
+    <p style=" top:515; left:500; font-size: 0.2em; color:grey;"> The width of the bubbles represents the <br> number
+      of casualties, whereas the color <br> represent the category  of perpetrator. <br> Slide the timewindow  to see all attacks. <br><br>
+      Darker states represent states with higher <br> percentages of resettled refugees. <br> <p>
+    </p>
+    <!-- Mapslider code: -->
+    <script src="/mapslider.js"></script>
+
+    <p id="text" style="top: 1080px; left:720px; font-size: 0.7em;"> Hasan Khan | Data Visualization S18 </p>
+
+
+</body>
+</html>

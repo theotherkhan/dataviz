@@ -1,0 +1,590 @@
+var immigration_json = {
+"type": "FeatureCollection",                                                                         
+"features": [
+    
+  {
+    "Date": "Jan-12",
+    "Total": 3108,
+    "North_Africa": 170,
+    "West_Africa": 440,
+    "Arab_World": 1584,
+    "South_Asia": 537,
+    "Southern_Europe": 41
+  },
+  {
+    "Date": "Feb-12",
+    "Total": 2644,
+    "North_Africa": 140,
+    "West_Africa": 413,
+    "Arab_World": 1372,
+    "South_Asia": 349,
+    "Southern_Europe": 92
+  },
+  {
+    "Date": "Mar-12",
+    "Total": 2697,
+    "North_Africa": 137,
+    "West_Africa": 446,
+    "Arab_World": 1359,
+    "South_Asia": 374,
+    "Southern_Europe": 84
+  },
+  {
+    "Date": "Apr-12",
+    "Total": 2226,
+    "North_Africa": 119,
+    "West_Africa": 445,
+    "Arab_World": 1090,
+    "South_Asia": 323,
+    "Southern_Europe": 47
+  },
+  {
+    "Date": "May-12",
+    "Total": 2439,
+    "North_Africa": 148,
+    "West_Africa": 452,
+    "Arab_World": 1223,
+    "South_Asia": 315,
+    "Southern_Europe": 35
+  },
+  {
+    "Date": "Jun-12",
+    "Total": 2840,
+    "North_Africa": 154,
+    "West_Africa": 444,
+    "Arab_World": 1441,
+    "South_Asia": 455,
+    "Southern_Europe": 66
+  },
+  {
+    "Date": "Jul-12",
+    "Total": 2957,
+    "North_Africa": 169,
+    "West_Africa": 478,
+    "Arab_World": 1468,
+    "South_Asia": 405,
+    "Southern_Europe": 94
+  },
+  {
+    "Date": "Aug-12",
+    "Total": 2984,
+    "North_Africa": 129,
+    "West_Africa": 495,
+    "Arab_World": 1506,
+    "South_Asia": 401,
+    "Southern_Europe": 118
+  },
+  {
+    "Date": "Sep-12",
+    "Total": 3052,
+    "North_Africa": 153,
+    "West_Africa": 439,
+    "Arab_World": 1315,
+    "South_Asia": 435,
+    "Southern_Europe": 282
+  },
+  {
+    "Date": "Oct-12",
+    "Total": 4339,
+    "North_Africa": 197,
+    "West_Africa": 617,
+    "Arab_World": 1746,
+    "South_Asia": 531,
+    "Southern_Europe": 744
+  },
+  {
+    "Date": "Nov-12",
+    "Total": 5101,
+    "North_Africa": 220,
+    "West_Africa": 839,
+    "Arab_World": 1845,
+    "South_Asia": 583,
+    "Southern_Europe": 779
+  },
+  {
+    "Date": "Dec-12",
+    "Total": 3322,
+    "North_Africa": 161,
+    "West_Africa": 528,
+    "Arab_World": 1315,
+    "South_Asia": 341,
+    "Southern_Europe": 213
+  },
+  {
+    "Date": "Jan-13",
+    "Total": 4920,
+    "North_Africa": 303,
+    "West_Africa": 808,
+    "Arab_World": 1712,
+    "South_Asia": 576,
+    "Southern_Europe": 243
+  },
+  {
+    "Date": "Feb-13",
+    "Total": 4071,
+    "North_Africa": 254,
+    "West_Africa": 790,
+    "Arab_World": 1331,
+    "South_Asia": 402,
+    "Southern_Europe": 184
+  },
+  {
+    "Date": "Mar-13",
+    "Total": 4120,
+    "North_Africa": 235,
+    "West_Africa": 935,
+    "Arab_World": 1227,
+    "South_Asia": 362,
+    "Southern_Europe": 163
+  },
+  {
+    "Date": "Apr-13",
+    "Total": 5502,
+    "North_Africa": 272,
+    "West_Africa": 1005,
+    "Arab_World": 1336,
+    "South_Asia": 485,
+    "Southern_Europe": 191
+  },
+  {
+    "Date": "May-13",
+    "Total": 5626,
+    "North_Africa": 287,
+    "West_Africa": 843,
+    "Arab_World": 1171,
+    "South_Asia": 515,
+    "Southern_Europe": 159
+  },
+  {
+    "Date": "Jun-13",
+    "Total": 6152,
+    "North_Africa": 376,
+    "West_Africa": 897,
+    "Arab_World": 1519,
+    "South_Asia": 563,
+    "Southern_Europe": 206
+  },
+  {
+    "Date": "Jul-13",
+    "Total": 6291,
+    "North_Africa": 432,
+    "West_Africa": 1221,
+    "Arab_World": 1692,
+    "South_Asia": 744,
+    "Southern_Europe": 399
+  },
+  {
+    "Date": "Aug-13",
+    "Total": 5801,
+    "North_Africa": 636,
+    "West_Africa": 1323,
+    "Arab_World": 1520,
+    "South_Asia": 607,
+    "Southern_Europe": 364
+  },
+  {
+    "Date": "Sep-13",
+    "Total": 6619,
+    "North_Africa": 663,
+    "West_Africa": 1896,
+    "Arab_World": 1686,
+    "South_Asia": 653,
+    "Southern_Europe": 738
+  },
+  {
+    "Date": "Oct-13",
+    "Total": 7353,
+    "North_Africa": 1051,
+    "West_Africa": 2215,
+    "Arab_World": 1822,
+    "South_Asia": 711,
+    "Southern_Europe": 771
+  },
+  {
+    "Date": "Nov-13",
+    "Total": 7104,
+    "North_Africa": 773,
+    "West_Africa": 2391,
+    "Arab_World": 1888,
+    "South_Asia": 577,
+    "Southern_Europe": 797
+  },
+  {
+    "Date": "Dec-13",
+    "Total": 5247,
+    "North_Africa": 432,
+    "West_Africa": 1780,
+    "Arab_World": 1411,
+    "South_Asia": 418,
+    "Southern_Europe": 660
+  },
+  {
+    "Date": "Jan-14",
+    "Total": 7496,
+    "North_Africa": 616,
+    "West_Africa": 2115,
+    "Arab_World": 2178,
+    "South_Asia": 670,
+    "Southern_Europe": 1106
+  },
+  {
+    "Date": "Feb-14",
+    "Total": 6107,
+    "North_Africa": 524,
+    "West_Africa": 1470,
+    "Arab_World": 1857,
+    "South_Asia": 473,
+    "Southern_Europe": 1168
+  },
+  {
+    "Date": "Mar-14",
+    "Total": 6271,
+    "North_Africa": 502,
+    "West_Africa": 1599,
+    "Arab_World": 1655,
+    "South_Asia": 530,
+    "Southern_Europe": 1320
+  },
+  {
+    "Date": "Apr-14",
+    "Total": 6568,
+    "North_Africa": 490,
+    "West_Africa": 2079,
+    "Arab_World": 1799,
+    "South_Asia": 512,
+    "Southern_Europe": 1049
+  },
+  {
+    "Date": "May-14",
+    "Total": 6857,
+    "North_Africa": 632,
+    "West_Africa": 2671,
+    "Arab_World": 1436,
+    "South_Asia": 459,
+    "Southern_Europe": 1035
+  },
+  {
+    "Date": "Jun-14",
+    "Total": 7472,
+    "North_Africa": 675,
+    "West_Africa": 2899,
+    "Arab_World": 1526,
+    "South_Asia": 529,
+    "Southern_Europe": 1127
+  },
+  {
+    "Date": "Jul-14",
+    "Total": 9414,
+    "North_Africa": 561,
+    "West_Africa": 3867,
+    "Arab_World": 1945,
+    "South_Asia": 632,
+    "Southern_Europe": 1544
+  },
+  {
+    "Date": "Aug-14",
+    "Total": 8876,
+    "North_Africa": 574,
+    "West_Africa": 3818,
+    "Arab_World": 1985,
+    "South_Asia": 610,
+    "Southern_Europe": 1132
+  },
+  {
+    "Date": "Sep-14",
+    "Total": 9114,
+    "North_Africa": 614,
+    "West_Africa": 3661,
+    "Arab_World": 2221,
+    "South_Asia": 702,
+    "Southern_Europe": 906
+  },
+  {
+    "Date": "Oct-14",
+    "Total": 9110,
+    "North_Africa": 624,
+    "West_Africa": 3070,
+    "Arab_World": 2312,
+    "South_Asia": 567,
+    "Southern_Europe": 1323
+  },
+  {
+    "Date": "Nov-14",
+    "Total": 8552,
+    "North_Africa": 555,
+    "West_Africa": 2680,
+    "Arab_World": 2221,
+    "South_Asia": 507,
+    "Southern_Europe": 1480
+  },
+  {
+    "Date": "Dec-14",
+    "Total": 7372,
+    "North_Africa": 391,
+    "West_Africa": 2036,
+    "Arab_World": 2070,
+    "South_Asia": 552,
+    "Southern_Europe": 1368
+  },
+  {
+    "Date": "Jan-15",
+    "Total": 9939,
+    "North_Africa": 601,
+    "West_Africa": 2483,
+    "Arab_World": 3163,
+    "South_Asia": 606,
+    "Southern_Europe": 2141
+  },
+  {
+    "Date": "Feb-15",
+    "Total": 9223,
+    "North_Africa": 388,
+    "West_Africa": 2174,
+    "Arab_World": 2852,
+    "South_Asia": 544,
+    "Southern_Europe": 2297
+  },
+  {
+    "Date": "Mar-15",
+    "Total": 10335,
+    "North_Africa": 709,
+    "West_Africa": 1693,
+    "Arab_World": 2995,
+    "South_Asia": 398,
+    "Southern_Europe": 3613
+  },
+  {
+    "Date": "Apr-15",
+    "Total": 13494,
+    "North_Africa": 629,
+    "West_Africa": 2058,
+    "Arab_World": 3496,
+    "South_Asia": 697,
+    "Southern_Europe": 5548
+  },
+  {
+    "Date": "May-15",
+    "Total": 14538,
+    "North_Africa": 623,
+    "West_Africa": 2673,
+    "Arab_World": 3739,
+    "South_Asia": 673,
+    "Southern_Europe": 5632
+  },
+  {
+    "Date": "Jun-15",
+    "Total": 20305,
+    "North_Africa": 1130,
+    "West_Africa": 4009,
+    "Arab_World": 5456,
+    "South_Asia": 1198,
+    "Southern_Europe": 7061
+  },
+  {
+    "Date": "Jul-15",
+    "Total": 20515,
+    "North_Africa": 673,
+    "West_Africa": 3693,
+    "Arab_World": 5388,
+    "South_Asia": 921,
+    "Southern_Europe": 8756
+  },
+  {
+    "Date": "Aug-15",
+    "Total": 19950,
+    "North_Africa": 582,
+    "West_Africa": 3383,
+    "Arab_World": 5413,
+    "South_Asia": 799,
+    "Southern_Europe": 8884
+  },
+  {
+    "Date": "Sep-15",
+    "Total": 20899,
+    "North_Africa": 594,
+    "West_Africa": 3336,
+    "Arab_World": 7187,
+    "South_Asia": 1294,
+    "Southern_Europe": 7245
+  },
+  {
+    "Date": "Oct-15",
+    "Total": 22002,
+    "North_Africa": 562,
+    "West_Africa": 3455,
+    "Arab_World": 10246,
+    "South_Asia": 1458,
+    "Southern_Europe": 5078
+  },
+  {
+    "Date": "Nov-15",
+    "Total": 20622,
+    "North_Africa": 661,
+    "West_Africa": 2861,
+    "Arab_World": 10834,
+    "South_Asia": 1698,
+    "Southern_Europe": 3489
+  },
+  {
+    "Date": "Dec-15",
+    "Total": 15264,
+    "North_Africa": 502,
+    "West_Africa": 1423,
+    "Arab_World": 9782,
+    "South_Asia": 849,
+    "Southern_Europe": 1973
+  },
+  {
+    "Date": "Jan-16",
+    "Total": 20932,
+    "North_Africa": 724,
+    "West_Africa": 1830,
+    "Arab_World": 14988,
+    "South_Asia": 996,
+    "Southern_Europe": 1749
+  },
+  {
+    "Date": "Feb-16",
+    "Total": 28626,
+    "North_Africa": 1071,
+    "West_Africa": 2692,
+    "Arab_World": 21252,
+    "South_Asia": 1239,
+    "Southern_Europe": 1600
+  },
+  {
+    "Date": "Mar-16",
+    "Total": 28149,
+    "North_Africa": 796,
+    "West_Africa": 3075,
+    "Arab_World": 20652,
+    "South_Asia": 1460,
+    "Southern_Europe": 1203
+  },
+  {
+    "Date": "Apr-16",
+    "Total": 31928,
+    "North_Africa": 1205,
+    "West_Africa": 4086,
+    "Arab_World": 22068,
+    "South_Asia": 1448,
+    "Southern_Europe": 1580
+  },
+  {
+    "Date": "May-16",
+    "Total": 30627,
+    "North_Africa": 844,
+    "West_Africa": 4183,
+    "Arab_World": 21339,
+    "South_Asia": 1422,
+    "Southern_Europe": 1293
+  },
+  {
+    "Date": "Jun-16",
+    "Total": 45229,
+    "North_Africa": 1208,
+    "West_Africa": 7447,
+    "Arab_World": 29953,
+    "South_Asia": 2502,
+    "Southern_Europe": 1761
+  },
+  {
+    "Date": "Jul-16",
+    "Total": 44590,
+    "North_Africa": 1205,
+    "West_Africa": 7716,
+    "Arab_World": 29222,
+    "South_Asia": 2554,
+    "Southern_Europe": 1722
+  },
+  {
+    "Date": "Aug-16",
+    "Total": 55993,
+    "North_Africa": 2046,
+    "West_Africa": 9395,
+    "Arab_World": 36151,
+    "South_Asia": 3363,
+    "Southern_Europe": 2131
+  },
+  {
+    "Date": "Sep-16",
+    "Total": 45632,
+    "North_Africa": 1612,
+    "West_Africa": 7901,
+    "Arab_World": 28085,
+    "South_Asia": 3113,
+    "Southern_Europe": 2637
+  },
+  {
+    "Date": "Oct-16",
+    "Total": 21745,
+    "North_Africa": 1004,
+    "West_Africa": 5760,
+    "Arab_World": 11351,
+    "South_Asia": 1350,
+    "Southern_Europe": 871
+  },
+  {
+    "Date": "Nov-16",
+    "Total": 17381,
+    "North_Africa": 1056,
+    "West_Africa": 5614,
+    "Arab_World": 7523,
+    "South_Asia": 1070,
+    "Southern_Europe": 945
+  },
+  {
+    "Date": "Dec-16",
+    "Total": 12860,
+    "North_Africa": 930,
+    "West_Africa": 4468,
+    "Arab_World": 5137,
+    "South_Asia": 706,
+    "Southern_Europe": 661
+  },
+  {
+    "Date": "Jan-17",
+    "Total": 11077,
+    "North_Africa": 657,
+    "West_Africa": 3879,
+    "Arab_World": 4684,
+    "South_Asia": 570,
+    "Southern_Europe": 426
+  },
+  {
+    "Date": "Feb-17",
+    "Total": 9759,
+    "North_Africa": 623,
+    "West_Africa": 3346,
+    "Arab_World": 4248,
+    "South_Asia": 476,
+    "Southern_Europe": 331
+  },
+  {
+    "Date": "Mar-17",
+    "Total": 11573,
+    "North_Africa": 653,
+    "West_Africa": 3597,
+    "Arab_World": 5210,
+    "South_Asia": 609,
+    "Southern_Europe": 632
+  },
+  {
+    "Date": "Apr-17",
+    "Total": 8436,
+    "North_Africa": 532,
+    "West_Africa": 2797,
+    "Arab_World": 3501,
+    "South_Asia": 445,
+    "Southern_Europe": 466
+  },
+  {
+    "Date": "May-17",
+    "Total": 9306,
+    "North_Africa": 424,
+    "West_Africa": 3028,
+    "Arab_World": 4104,
+    "South_Asia": 571,
+    "Southern_Europe": 365
+  }
+]

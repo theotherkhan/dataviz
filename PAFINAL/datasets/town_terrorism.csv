@@ -1,0 +1,115 @@
+DATE,CITY,PERPETRATOR,TYPE,FATALITIES,INJURED,TARGET,ATTACK,LATITUDE,LONGITUDE,REFUGEE,ANTIIMIGRANT
+1/23/12,magdeburg,Unknown,Unknown,3,1,Western Europe,Incendiary,52.1667,11.6667,0,0
+5/1/12,berlin,Unknown,Unknown,0,0,Private Citizens & Property,Bombing/Explosion,52.5167,13.4,0,0
+5/14/12,potsdam,Friends of Loukanikos,Left-wing extremists,0,0,Government (Diplomatic),Facility/Infrastructure Attack,52.4,13.0667,0,0
+12/10/12,bonn,Muslim extremists,Muslim extremists,0,0,Transportation,Bombing/Explosion,50.7333,7.1,0,0
+1/2/14,berlin,Unknown,Unknown,0,0,Government (Diplomatic),Facility/Infrastructure Attack,52.5167,13.4,0,0
+7/2/14,berlin,Conspiracy of Cells of Fire,Foreign national groups,0,0,Government (Diplomatic),Facility/Infrastructure Attack,52.5167,13.4,0,0
+7/29/14,wuppertal,Unknown,Unknown,0,0,Religious Figures/Institutions,Facility/Infrastructure Attack,51.2667,7.1833,0,0
+8/10/14,bielefeld,Unknown,Unknown,0,0,Religious Figures/Institutions,Facility/Infrastructure Attack,52.0333,8.5333,0,0
+8/11/14,berlin,Unknown,Unknown,0,0,Religious Figures/Institutions,Facility/Infrastructure Attack,52.5167,13.4,0,0
+8/25/14,berlin,German Resistance Movement,Neo-Nazi extremists,0,0,Private Citizens & Property,Facility/Infrastructure Attack,52.5167,13.4,0,0
+8/28/14,berlin,Left-wing extremists,Left-wing extremists,0,0,Transportation,Facility/Infrastructure Attack,52.5167,13.4,0,0
+8/30/14,oldenburg,Unknown,Unknown,0,0,Religious Figures/Institutions,Facility/Infrastructure Attack,53.1667,8.2,0,0
+9/4/14,moelln,Unknown,Unknown,0,0,Religious Figures/Institutions,Facility/Infrastructure Attack,53.6333,10.6833,0,0
+9/29/14,berlin,German Resistance Movement,Right-wing extremist,0,0,Government (General),Facility/Infrastructure Attack,52.5167,13.4,0,0
+10/11/14,bad salzuflen,Yazidi extremists,Foreign national groups,0,0,Religious Figures/Institutions,Facility/Infrastructure Attack,52.0833,8.7667,0,0
+10/12/14,gross lusewitz,Unknown,Unknown,0,0,Other,Armed Assault,54.0667,12.3333,0,0
+12/12/14,vorra,Free Network South (Freies Netz Sued),Neo-Nazi extremists,0,0,Other,Facility/Infrastructure Attack,49.55,11.5,0,0
+1/11/15,hamburg,Unknown,Unknown,0,0,Journalists & Media,Facility/Infrastructure Attack,53.55,10,0,0
+2/9/15,escheburg,Anti-Immigrant extremists,Right-wing extremists,0,0,Other,Facility/Infrastructure Attack,53.4667,10.3167,0,1
+3/2/15,dresden,Patriotic Europeans against the Islamization of the West (PEGIDA),Right-wing extremist,0,0,Private Citizens & Property,Bombing/Explosion,51.05,13.75,0,0
+3/23/15,berlin,Right-wing extremists,Right-wing extremists,0,0,Government (General),Facility/Infrastructure Attack,52.5167,13.4,0,0
+4/13/15,witten,Unknown,Unknown,0,0,Religious Figures/Institutions,Facility/Infrastructure Attack,51.4333,7.3333,0,0
+4/21/15,berlin,Right-wing extremists,Right-wing extremists,0,0,Government (General),Facility/Infrastructure Attack,52.5167,13.4,0,0
+5/6/15,limburgerhof,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,49.4244,8.3919,0,0
+5/24/15,berlin,Right-wing extremists,Right-wing extremists,0,0,Government (General),Armed Assault,52.5167,13.4,0,0
+6/28/15,meissen,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,51.15,13.4833,0,0
+6/29/15,lubeck,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,53.8667,10.7,0,0
+7/11/15,bohlen,Unknown,Unknown,0,0,Other,Armed Assault,51.2,12.3833,0,0
+7/12/15,bohlen,Unknown,Unknown,0,0,Other,Armed Assault,51.2,12.3833,0,0
+7/15/15,reichertshofen,The Third Way (Der III. Weg),Neo-Nazi extremists,0,0,Other,Facility/Infrastructure Attack,48.6667,11.4667,0,0
+7/27/15,freital,Freital Group,Right-wing extremists,0,0,Government (General),Assassination,51.0167,13.65,0,0
+8/20/15,berlin,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,52.5167,13.4,0,0
+8/25/15,leipzig,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,51.3,12.3333,0,0
+8/25/15,nauen,Right-wing extremists,Right-wing extremists,0,0,Other,Facility/Infrastructure Attack,52.6,12.8833,0,0
+8/28/15,salzhemmendorf,Right-wing extremists,Right-wing extremists,0,0,Other,Armed Assault,52.0667,9.6167,0,0
+9/4/15,heppenheim,Unknown,Unknown,0,5,Other,Armed Assault,49.6408,8.6372,0,0
+9/7/15,ebeleben,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,51.2833,10.7333,0,0
+9/7/15,rottenburg,Unknown,Unknown,0,5,Other,Armed Assault,48.4667,8.9333,0,0
+9/9/15,gersheim,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,49.15,7.2,0,0
+9/10/15,bielefeld,Kurdistan Workers' Party (PKK),Foreign national groups,0,0,Religious Figures/Institutions,Facility/Infrastructure Attack,52.0333,8.5333,0,0
+9/11/15,gerstungen,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,50.9667,10.0667,0,0
+9/17/15,berlin,Muslim extremists,Muslim extremists,1,1,Police,Armed Assault,52.5167,13.4,0,0
+9/19/15,freital,Freital Group,Right-wing extremists,0,0,Other,Bombing/Explosion,51.0167,13.65,0,1
+9/19/15,laage,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,53.9333,12.35,0,0
+9/19/15,wertheim,Unknown,Unknown,0,2,Other,Facility/Infrastructure Attack,49.7575,9.5094,0,0
+9/19/15,neuhardenberg,Unknown,Unknown,0,0,Private Citizens & Property,Facility/Infrastructure Attack,52.6,14.25,0,0
+10/3/15,grosshartmannsdorf,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,50.8,13.3333,0,0
+10/3/15,bischhagen,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,51.4333,10.1,0,0
+10/11/15,heidelberg,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,49.4167,8.7,0,0
+10/11/15,altena,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,51.3,7.6667,0,0
+10/16/15,flensburg,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,54.7833,9.4333,0,0
+10/17/15,cologne,Anti-Immigrant extremists,Right-wing extremists,0,5,Private Citizens & Property,Assassination,50.9333,6.95,0,1
+10/28/15,dresden,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,51.05,13.75,0,0
+10/31/15,magdeburg,Unknown,Unknown,0,3,Other,Unarmed Assault,52.1667,11.6667,0,0
+10/31/15,cossebaude,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,51.0833,13.6333,0,0
+10/31/15,wismar,Unknown,Unknown,0,2,Other,Unarmed Assault,53.9,11.4667,0,0
+11/1/15,sehnde,Unknown,Unknown,0,0,Other,Armed Assault,52.3167,9.95,0,0
+11/1/15,jena,Unknown,Unknown,0,1,Other,Unknown,50.9333,11.5833,0,0
+11/1/15,freital,Freital Group,Right-wing extremists,0,1,Other,Bombing/Explosion,51.0167,13.65,0,1
+11/2/15,lampertheim,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,49.6019,8.4719,0,0
+11/15/15,trassenheide,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,54.1,13.8667,0,0
+11/22/15,johanngeorgenstadt,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,50.4333,12.7333,0,0
+11/28/15,munster,Unknown,Unknown,0,0,Government (Diplomatic),Facility/Infrastructure Attack,51.9667,7.6333,0,0
+12/7/15,altenburg,Unknown,Unknown,0,10,Other,Facility/Infrastructure Attack,50.9833,12.45,0,0
+12/9/15,heide,Unknown,Unknown,0,0,Other,Armed Assault,54.2,9.1,0,0
+12/9/15,heide,Unknown,Unknown,0,0,Other,Armed Assault,54.2,9.1,0,0
+12/9/15,heide,Unknown,Unknown,0,0,Other,Armed Assault,54.2,9.1,0,0
+12/13/15,augsburg,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,48.3667,10.8833,0,0
+12/14/15,pirna,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,50.9667,13.9333,0,0
+12/20/15,godendorf,Unknown,Unknown,0,0,Other,Armed Assault,49.8167,6.5,0,0
+12/20/15,tutow,Unknown,Unknown,0,0,Other,Armed Assault,53.9167,13.2667,0,0
+12/24/15,wallerstein,Unknown,Unknown,0,6,Other,Facility/Infrastructure Attack,48.8833,10.4667,0,0
+12/24/15,wallerstein,Unknown,Unknown,0,6,Other,Facility/Infrastructure Attack,48.8833,10.4667,0,0
+12/24/15,schwabisch gmund,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,48.8,9.7833,0,0
+12/26/15,schlettau,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,50.5667,12.95,0,0
+12/31/15,hanover,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,52.3667,9.7167,0,0
+1/4/16,dreieich,Unknown,Unknown,0,1,Other,Armed Assault,50,8.7,0,0
+1/17/16,altenberg,Neo-Nazi extremists,Neo-Nazi extremists,0,2,Other,Unarmed Assault,50.7667,13.7667,0,0
+1/25/16,witten,Unknown,Unknown,0,0,Private Citizens & Property,Facility/Infrastructure Attack,51.4333,7.3333,0,0
+1/25/16,witten,Unknown,Unknown,0,0,Private Citizens & Property,Facility/Infrastructure Attack,51.4333,7.3333,0,0
+1/30/16,chemnitz,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,50.8333,12.9167,0,0
+1/30/16,leipzig,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,51.3,12.3333,0,0
+2/2/16,oberhausen,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,51.4667,6.85,0,0
+2/5/16,hanover,Jihadi-inspired extremists,Muslim extremists,0,0,Private Citizens & Property,Armed Assault,52.3667,9.7167,0,0
+2/20/16,bautzen,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,51.1833,14.4333,0,0
+2/26/16,hanover,Islamic State of Iraq and the Levant (ISIL),Muslim extremists,0,1,Police,Armed Assault,52.3667,9.7167,0,0
+2/27/16,grafenhainichen,Right-wing extremists,Right-wing extremists,0,0,Other,Armed Assault,51.7333,12.45,0,0
+3/29/16,hamburg,Kurdistan Workers' Party (PKK),Foreign national groups,0,0,Private Citizens & Property,Facility/Infrastructure Attack,53.55,10,0,0
+4/16/16,essen,Jihadi-inspired extremists,Muslim extremists,0,3,Religious Figures/Institutions,Bombing/Explosion,51.45,7.0167,0,0
+5/10/16,grafing,Muslim extremists,Muslim extremists,1,3,Private Citizens & Property,Armed Assault,48.05,11.9667,0,0
+7/18/16,wurzburg,Jihadi-inspired extremists,Muslim extremists,1,5,Private Citizens & Property,Armed Assault,49.7878,9.9361,1,0
+7/22/16,munich,Right-wing extremists,Right-wing extremists,10,27,Private Citizens & Property,Armed Assault,48.15,11.5833,0,0
+7/24/16,ansbach,Jihadi-inspired extremists,Muslim extremists,1,15,Business,Bombing/Explosion,49.3,10.5833,1,0
+8/4/16,berlin,Unknown,Unknown,0,0,Private Citizens & Property,Facility/Infrastructure Attack,52.5167,13.4,0,0
+9/8/16,magdeburg,Unknown,Unknown,0,0,Police,Facility/Infrastructure Attack,52.1667,11.6667,0,0
+9/16/16,leipzig,Unknown,Unknown,0,0,Private Citizens & Property,Facility/Infrastructure Attack,51.3,12.3333,0,0
+9/25/16,bebra,Unknown,Unknown,0,0,Religious Figures/Institutions,Facility/Infrastructure Attack,50.9667,9.8,0,0
+9/26/16,dresden,Neo-Nazi extremists,Neo-Nazi extremists,0,0,Business,Bombing/Explosion,51.05,13.75,0,0
+9/26/16,dresden,Neo-Nazi extremists,Neo-Nazi extremists,0,0,Religious Figures/Institutions,Bombing/Explosion,51.05,13.75,0,0
+9/28/16,kothen,Unknown,Unknown,0,0,Other,Facility/Infrastructure Attack,51.75,11.9667,0,0
+9/29/16,oersdorf,Neo-Nazi extremists,Neo-Nazi extremists,0,1,Government (General),Unarmed Assault,53.8333,9.9833,0,0
+10/1/16,dresden,Unknown,Unknown,0,0,Police,Facility/Infrastructure Attack,51.05,13.75,0,0
+10/4/16,leipzig,Left-wing extremists,Left-wing extremists,0,0,Government (General),Facility/Infrastructure Attack,51.3,12.3333,0,0
+10/6/16,sebnitz,Right-wing extremists,Right-wing extremists,0,3,Other,Armed Assault,50.9667,14.2833,0,0
+10/16/16,hamburg,Unknown,Unknown,1,2,Private Citizens & Property,Armed Assault,53.55,10,0,0
+11/4/16,essen,Bahoz,Foreign national groups,0,1,Business,Facility/Infrastructure Attack,51.45,7.0167,0,0
+11/6/16,hannover,Kurdistan Workers' Party (PKK),Foreign national groups,0,0,Government (Diplomatic),Facility/Infrastructure Attack,53.1833,8.5167,0,0
+11/8/16,chemnitz,Unknown,Unknown,0,0,Private Citizens & Property,Bombing/Explosion,50.8333,12.9167,0,0
+11/14/16,magdeburg,Neo-Nazi extremists,Neo-Nazi extremists,0,0,Business,Facility/Infrastructure Attack,52.1667,11.6667,0,0
+11/26/16,ludwigshafen,Jihadi-inspired extremists,Muslim extremists,0,0,Private Citizens & Property,Bombing/Explosion,49.4811,8.4353,0,0
+11/26/16,hamburg,Left-wing extremists,Left-wing extremists,0,0,Business,Facility/Infrastructure Attack,53.55,10,0,0
+12/5/16,ludwigshafen,Jihadi-inspired extremists,Muslim extremists,0,0,Private Citizens & Property,Unarmed Assault,49.4811,8.4353,0,0
+12/19/16,berlin,Jihadi-inspired extremists,Muslim extremists,1,0,Private Citizens & Property,Hijacking,52.5167,13.4,0,0
+12/19/16,berlin,Jihadi-inspired extremists,Muslim extremists,12,48,Private Citizens & Property,Unarmed Assault,52.5167,13.4,0,0
